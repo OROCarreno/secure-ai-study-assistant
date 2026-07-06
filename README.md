@@ -5,7 +5,7 @@ A full stack RAG document assistant. Upload the documents and ask questions. get
 In development
 
 ## Tech behind (planned)
--Backend: FastAPI, PostgreSQL
--Fronted: React, TypeScript 
--Ai: Langchain, Rag pipeline 
--Deployment: Docker, Render
+- Backend: FastAPI, PostgreSQL
+- Fronted: React, TypeScript 
+- Ai: Langchain, Rag pipeline 
+- Deployment: Docker, Render
