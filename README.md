@@ -1,4 +1,4 @@
-# secure-ai-study-assistant
+# Secure-ai-study-assistant
 A full stack RAG document assistant. Upload the documents and ask questions. get AI generated answers with citations back to the source materials 
 
 ## Status
