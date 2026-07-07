@@ -1,0 +1,3 @@
+Fast Api
+    - uv pip install fastapi uvicorn
+
