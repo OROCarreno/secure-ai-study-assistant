@@ -1,3 +1,8 @@
 Fast Api
     - pip install "fastapi[standard]"
 
+Passlib and bcrypt
+    - pip install "bcrypt==4.0.1"
+
+Email Validator
+    - pip install email-validator
