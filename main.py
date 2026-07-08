@@ -1,1 +1,0 @@
-print("This is secure AI study assistant")
