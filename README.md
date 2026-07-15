@@ -6,6 +6,6 @@ In development
 
 ## Tech behind (planned)
 - Backend: FastAPI, PostgreSQL
-- Fronted: React, TypeScript 
+- Frontend: React, TypeScript 
 - Ai: Langchain, Rag pipeline 
 - Deployment: Docker, Render
